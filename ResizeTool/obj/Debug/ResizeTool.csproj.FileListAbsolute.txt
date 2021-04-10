@@ -1,0 +1,10 @@
+C:\Users\Google\Documents\Visual Studio 2019\Projects\ResizeTool\bin\Debug\ResizeTool.exe.config
+C:\Users\Google\Documents\Visual Studio 2019\Projects\ResizeTool\bin\Debug\ResizeTool.exe
+C:\Users\Google\Documents\Visual Studio 2019\Projects\ResizeTool\bin\Debug\ResizeTool.pdb
+C:\Users\Google\Documents\Visual Studio 2019\Projects\ResizeTool\obj\Debug\ResizeTool.csprojAssemblyReference.cache
+C:\Users\Google\Documents\Visual Studio 2019\Projects\ResizeTool\obj\Debug\ResizeTool.HomeForm.resources
+C:\Users\Google\Documents\Visual Studio 2019\Projects\ResizeTool\obj\Debug\ResizeTool.Properties.Resources.resources
+C:\Users\Google\Documents\Visual Studio 2019\Projects\ResizeTool\obj\Debug\ResizeTool.csproj.GenerateResource.cache
+C:\Users\Google\Documents\Visual Studio 2019\Projects\ResizeTool\obj\Debug\ResizeTool.csproj.CoreCompileInputs.cache
+C:\Users\Google\Documents\Visual Studio 2019\Projects\ResizeTool\obj\Debug\ResizeTool.exe
+C:\Users\Google\Documents\Visual Studio 2019\Projects\ResizeTool\obj\Debug\ResizeTool.pdb
