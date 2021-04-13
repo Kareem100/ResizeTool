@@ -6,9 +6,9 @@ which leads to stretch/elongate the objects inside the image.
 
 ### Screenshots
 
-![](ResizeTool Screenshots/ResizeTool_1.jpg)
+![](Screenshots/ResizeTool_1.jpg)
 
-![](ResizeTool Screenshots/ResizeTool_2.jpg)
+![](Screenshots/ResizeTool_2.jpg)
 
-![](ResizeTool Screenshots/ResizeTool_3.jpg)
+![](Screenshots/ResizeTool_3.jpg)
 
